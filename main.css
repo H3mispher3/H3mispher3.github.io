@@ -1,0 +1,17 @@
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+.p1 {
+	font-family: Cambria, "Hoefler Text";
+	font-size: 10px;
+}
+.scr {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size:30px;
+	color: #FF7000;
+	border-size: 2px;
+	border-color: #7A7A7A;
+}
+.btn {
+	
